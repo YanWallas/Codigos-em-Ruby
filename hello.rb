@@ -1,6 +1,5 @@
 require 'os'
 
-
 # saída de dado
 print 'Digite seu nome: '
 
@@ -30,4 +29,3 @@ def my_os
 end
 
 puts "Meu PC possui #{OS.cpu_count} cores, é #{OS.bits} bits e o sistema operacional é #{my_os}"
-  
