@@ -25,3 +25,6 @@ puts "#{estados[1..4]}"#Mostrando com intervalos de 1 á 4
 #estados.count => Quantos itens tem dentro do array
 #estados.empty? => se o array esta fazio ou nao (boolean)
 #estados.include?('Santa Catarina') => se santa Catarina esta dentro do array
+#estados.delete_at(2) => vai deletar o segundo item dentro do array
+#estados.pop => vai deletar o ultimo item dentro do array
+#estados.shift => vai deletar o primeiro item dentro do array
