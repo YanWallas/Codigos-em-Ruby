@@ -21,6 +21,6 @@ maratonista = Maratonista.new
 
 jogador.competir
 jogador.correr
-
+puts '----------------------------'
 maratonista.competir
 maratonista.correr
